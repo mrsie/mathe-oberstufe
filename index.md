@@ -2,7 +2,8 @@
 
 Herzlich Wilkommen zu dieser Übersicht der Oberstufenthemen im Fach Mathematik.
 
-
+> [!info]
+> Diese Webseite befindet sich noch im Aufbau.
 
 
 ## Inhaltsverzeichnis
