@@ -1,8 +1,8 @@
 # Inhaltsbezogene mathematische Kompetenzen (Anlage zum Rahmenplan Mathematik )
 
-:::warning
-Im ersten Jahr der Studienstufe werden die Module 1, 2 und 3 erarbeitet, im zweiten Jahr die Module 4 und 5 sowie eines der Wahlpflichtmodule 6 und 7.
-:::
+> [!warning]
+> Im ersten Jahr der Studienstufe werden die Module 1, 2 und 3 erarbeitet, im zweiten Jahr die Module 4 und 5 sowie eines der Wahlpflichtmodule 6 und 7.
+
 
 
 Dazu werden in den jeweiligen Zusammenhängen auch Anforderungen genannt, denen die Lernenden bereits beim Übergang in die Studienstufe genügen mussten.
@@ -11,8 +11,7 @@ Bei den folgenden inhaltlich konkretisierten Anforderungen sind jeweils in Klamm
 
 ---
 > [!warning]
-Die Module 1 bis 3 beschreiben den erwarteten Lernstand am Ende des **ersten Jahres** der Studienstufe.
-:::
+> Die Module 1 bis 3 beschreiben den erwarteten Lernstand am Ende des **ersten Jahres** der Studienstufe.
 
 ---
 
@@ -134,9 +133,8 @@ Auf erhöhtem Anforderungsniveau bearbeiten die Schülerinnen und Schüler auf d
 
 
 ---
-:::warning
-Die Module 4 bis 7 beschreiben den im Laufe des zweiten Jahres der Studienstufe erwarteten Lernzuwachs.
-:::
+> [!warning]
+> Die Module 4 bis 7 beschreiben den im Laufe des **zweiten Jahres** der Studienstufe erwarteten Lernzuwachs.
 
 ---
 
@@ -264,9 +262,8 @@ Die Schülerinnen und Schüler
 Die inhaltsbezogenen Kompetenzen bauen auf den Kompetenzen am Ende der Sekundarstufe I auf. Paradigmatische Beispiele, die Kernideen der Module enthalten, bilden jeweils die Grundlage für die Entwicklung der vorgesehenen Kompetenzen.
 
 
-:::warning
-Im ersten Jahr der Studienstufe werden die Module 1, 2 und 3 erarbeitet, im zweiten Jahr die Module 4 und 5 sowie eines der Wahlpflichtmodule 6 und 7.
-:::
+> [!warning]
+> Im ersten Jahr der Studienstufe werden die Module 1, 2 und 3 erarbeitet, im zweiten Jahr die Module 4 und 5 sowie eines der Wahlpflichtmodule 6 und 7.
 
 
 
