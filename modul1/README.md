@@ -17,10 +17,10 @@ Die Schülerinnen und Schüler
 
 
 - <mark class="op">erstellen</mark> zu <mark class="an">Anwendungskontexten</mark> **mit funktionalen Zusammenhängen** **mathematische Modelle** und stellen Funktionsgraphen auch mithilfe <mark class="digi">digitaler Mathematikwerkzeuge</mark> dar (M I.1, D I, T I.4),
-<br>[🔗 Funktionstypen](/aaD6qvCPRx6Zn3uJ2SbiIQ)
+<br>[🔗 Funktionstypen](/modul1/funktionstypen.md)
 
 - <mark class="op">untersuchen</mark> die Veränderung der Graphen von Funktionen bei **Variation von Parametern**, auch mithilfe <mark class="digi">digitaler Mathematikwerkzeuge</mark>, und <mark class="op">beschreiben</mark> diese Veränderungen (A II, D II.1, T I.4, T II.4, K II.1),
-<br>[🔗 Variation von Parametern eine Funktion](/g3DZxdWqSQardDbOk3QxDg)
+<br>[🔗 Variation von Parametern eine Funktion](/modul1/parameter-variation.md)
 
 - <mark class="op">stellen</mark> zur Bestimmung der Koeffizienten **ganzrationaler Funktionen** ein **lineares Gleichungssystem** <mark class="op">auf</mark> und <mark class="op">lösen</mark> es (T II.1),
 <br>[🔗 Ganzrationale Funktionen](/OfN7BFK9QbiD1Me254_ddg)
