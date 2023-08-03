@@ -7,6 +7,7 @@
 
 # Modul 1: Von der Änderungsrate zum Bestand
 
+
 ## Funktionen und Änderungsraten
 
 
@@ -16,24 +17,24 @@ Die Schülerinnen und Schüler
 
 
 - <mark class="op">erstellen</mark> zu <mark class="an">Anwendungskontexten</mark> **mit funktionalen Zusammenhängen** **mathematische Modelle** und stellen Funktionsgraphen auch mithilfe <mark class="digi">digitaler Mathematikwerkzeuge</mark> dar (M I.1, D I, T I.4),
-[🔗 Funktionstypen](/aaD6qvCPRx6Zn3uJ2SbiIQ)
+<br>[🔗 Funktionstypen](/aaD6qvCPRx6Zn3uJ2SbiIQ)
 
 - <mark class="op">untersuchen</mark> die Veränderung der Graphen von Funktionen bei **Variation von Parametern**, auch mithilfe <mark class="digi">digitaler Mathematikwerkzeuge</mark>, und <mark class="op">beschreiben</mark> diese Veränderungen (A II, D II.1, T I.4, T II.4, K II.1),
-[🔗 Variation von Parametern eine Funktion](/g3DZxdWqSQardDbOk3QxDg)
+<br>[🔗 Variation von Parametern eine Funktion](/g3DZxdWqSQardDbOk3QxDg)
 
 - <mark class="op">stellen</mark> zur Bestimmung der Koeffizienten **ganzrationaler Funktionen** ein **lineares Gleichungssystem** <mark class="op">auf</mark> und <mark class="op">lösen</mark> es (T II.1),
-[🔗 Ganzrationale Funktionen](/OfN7BFK9QbiD1Me254_ddg)
-[🔗 Lineare Gleichungssysteme Lösen](/OZaNhKEWRPetPWWhfjL7WQ)
+<br>[🔗 Ganzrationale Funktionen](/OfN7BFK9QbiD1Me254_ddg)
+<br>[🔗 Lineare Gleichungssysteme Lösen](/OZaNhKEWRPetPWWhfjL7WQ)
 
 - <mark class="op">bestimmen</mark> aus **Argumenten Funktionswerte** und umgekehrt, auch durch **Lösen von Gleichungen**, und <mark class="op">interpretieren</mark> die Ergebnisse <mark class="an">im Anwendungskontext</mark> (M I.3, T I.1, T I.2),
 
 - <mark class="op">wählen</mark> geeignete Verfahren zur Lösung von **linearen, quadratischen, biquadratischen Gleichungen**, **einfachen Bruch- und Wurzelgleichungen** sowie durch **Ausklammern der Unbekannten** in **faktorisierbaren Gleichungen** <mark class="op">aus</mark> und <mark class="op">wenden</mark> sie <mark class="op">an</mark> (T II.1),
-[🔗 Gleichungen Lösen](/MHsOVQDjQj6o2fSAu_4pHQ)
+<br>[🔗 Gleichungen Lösen](/MHsOVQDjQj6o2fSAu_4pHQ)
 
 - <mark class="op">bestimmen</mark> **Sekanten- und Tangentensteigungen** an Funktionsgraphen und <mark class="op">beschreiben</mark> die **Annäherung der mittleren an die lokale Änderungsrate** (A I.2, T I.2, T I.4),
 
 - <mark class="op">wählen</mark> <mark class="digi">digitale Mathematikwerkzeuge</mark> (Tabellenkalkulation, Computeralgebrasystem, dynamische Geometriesoftware) situationsgerecht <mark class="op">aus</mark> und <mark class="op">setzen</mark> sie effizient <mark class="op">ein</mark>, auch zur Unterstützung von Erkenntnisprozessen (T II.3),
-[🔗 Digitale Mathematikwerkzeuge](/xn4vGIaSSnaO5UJ6cv-wtA)
+<br>[🔗 Digitale Mathematikwerkzeuge](/xn4vGIaSSnaO5UJ6cv-wtA)
 
 - <mark class="op">berechnen</mark> **lokale Änderungsraten** und <mark class="op">interpretieren</mark> diese <mark class="an">im Anwendungskontext</mark> (T II.1, M I.3),
 
@@ -66,8 +67,7 @@ Die Schülerinnen und Schüler
     <li> nutzen Funktionsscharen zum Lösen von Problemen (P III). </li>
 </ul>
 </details>
-<p>  
-</p>
+
 
 ## Bestandsänderungen
 
@@ -98,6 +98,7 @@ Die Schülerinnen und Schüler
 </ul>
 </details>
 
+
 ## Verbindliche Funktionsklassen
 
 **Grundlegendes und erhöhtes Anforderungsniveau**
@@ -119,3 +120,4 @@ Die Schülerinnen und Schüler
 Unter einfachen Funktionen werden Funktionen verstanden, deren jeweiliger Graph aus dem Graphen zu $$f(x)=\frac{1}{x}\quad \text{bzw.} \quad f(x)=\sqrt{x}$$
 durch Verschieben in x-Richtung und y-Richtung, Strecken in x- oder y-Richtung sowie Spiegeln an Abszissenachse oder Ordinatenachse hervorgehen kann.
 :::
+
