@@ -5,12 +5,28 @@
 
 ?> ? Test
 
-s> s Test
 
-i> i Test
+> [!TIP]
+> `[!TIP]`
 
-w> w Test
+<br>
 
-d> d Test
+> [!TIP|label:My own heading|iconVisibility:hidden]
+> `[!TIP|label:My own heading|iconVisibility:hidden]`
 
-t> t Test
+<br>
+
+> [!NOTE]
+> `[!NOTE|style:flat|label: Note|iconVisibility:visible]`
+
+<br>
+
+> [!WARNING]
+> An alert of type 'warning' using global style 'callout'.
+
+<br>
+
+> [!ATTENTION]
+> An alert of type 'attention' using global style 'callout'.
+
+
