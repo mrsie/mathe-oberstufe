@@ -10,7 +10,7 @@ Dazu werden in den jeweiligen Zusammenhängen auch Anforderungen genannt, denen 
 Bei den folgenden inhaltlich konkretisierten Anforderungen sind jeweils in Klammern Verweise auf allgemeine mathematische Kompetenzen angegeben, die besonders zu berücksichtigen sind.
 
 ---
-:::warning
+> [!warning]
 Die Module 1 bis 3 beschreiben den erwarteten Lernstand am Ende des **ersten Jahres** der Studienstufe.
 :::
 

@@ -7,27 +7,32 @@
 
 
 > [!success]
-> `[!success|iconVisibility:hidden]`
+> `[!success]`
 
 <br>
 
 > [!info]
-> `[!info|iconVisibility:hidden]`
+> `[!info]`
 
 <br>
 
-> [!danger|label:|iconVisibility:hidden]
-> `[!danger|label:|iconVisibility:hidden]`
+> [!warning]
+> `[!warning]`
 
 <br>
 
-> [!TIP|label:|iconVisibility:hidden]
-> `[!TIP|label:My own heading|iconVisibility:hidden]`
+> [!danger]
+> `[!danger]`
 
 <br>
 
-> [!NOTE]
-> `[!NOTE]`
+> [!TIP|label:My own heading|:labelVisibility:visable|iconVisibility:visable]
+> `[!TIP|label:My own heading|:labelVisibility:visable|iconVisibility:visable]`
+
+<br>
+
+> [!NOTE|labelVisibility:visable]
+> `[!NOTE|labelVisibility:visable]`
 
 <br>
 
