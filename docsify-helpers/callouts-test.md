@@ -6,12 +6,22 @@
 ?> ? Test
 
 
-> [!TIP]
-> `[!TIP]`
+> [!success]
+> `[!success|iconVisibility:hidden]`
 
 <br>
 
-> [!TIP|label:My own heading|iconVisibility:hidden]
+> [!info]
+> `[!info|iconVisibility:hidden]`
+
+<br>
+
+> [!danger|label:|iconVisibility:hidden]
+> `[!danger|label:|iconVisibility:hidden]`
+
+<br>
+
+> [!TIP|label:|iconVisibility:hidden]
 > `[!TIP|label:My own heading|iconVisibility:hidden]`
 
 <br>
