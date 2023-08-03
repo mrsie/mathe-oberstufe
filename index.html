@@ -9,7 +9,7 @@
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="icon" href="img/favicon.ico">
   <link rel="stylesheet" href="css/theme-simple.css">
-  <link rel="stylesheet" href="css/vue-boxes.css">
+  <!--<link rel="stylesheet" href="css/vue-boxes.css">-->
   <link rel="stylesheet" href="css/custom.css">
   <link rel="stylesheet" href="css/prism.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
@@ -39,10 +39,25 @@
         placeholder: {
           '/': 'Suche'
         },
+      },
       latex: {
         inlineMath   : [['$', '$'], ['\\(', '\\)']], // default
         displayMath  : [['$$', '$$']],               // default
-      }
+      },
+      'flexible-alerts': {
+        style: 'flat',
+        note: {
+          label: "Hinweis"
+        },
+        tip: {
+          label: "Tipp"
+        },
+        warning: {
+          label: "Warnung"
+        },
+        attention: {
+          label: "Achtung"
+        }
       },
       markdown: {
         smartypants: true,
@@ -109,12 +124,14 @@
   <script src="js/search.min.js"></script>
   <script src="js/prism.js"></script>
   <script src="js/emoji.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
-  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="js/docsify-tabs.min.js"></script>
+  <script src="js/docsify-pagination.min.js"></script>
   <!-- LaTeX display engine -->
   <script src="//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
   <!--  docsify-latex plugin -->
   <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
+  <!-- docsify-plugin-flexible-alerts -->
+  <script src="js/docsify-plugin-flexible-alerts.min.js"></script>
 </body>
 
 </html>
