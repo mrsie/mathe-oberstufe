@@ -1,4 +1,4 @@
-# Robotik Unterrichtsmaterial
+# Mathe Oberstufe
 In diesem Repository findest du eine Übersicht der Oberstufenthemen im Fach Mathematik.
 
 Hast du einen Fehler gefunden oder möchtest eine Verbesserung einpflegen, freue ich mich auf einen Pull Request, einen Eintrag unter Issue oder eine klassische [Mail](mailto:m.siemering.edu@gmail.com)
