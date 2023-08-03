@@ -11,7 +11,9 @@ Diese Webseite ist wie folgt aufgebaut:
 
 - [Home](index.md)
 - Anlage zum Rahmenplan Mathematik
-  - [Inhaltsbezogene mathematische Kompetenzen](/anlage-zum-rahmenplan/inhaltsbezogene-mathematische-kompetenzen.md)
+  - [Erzänzende Hinweise](/anlage-zum-rahmenplan/ergaenzende-hinweise.md)
+  - [Allgemeine mathematische Kompetenzen](/anlage-zum-rahmenplan/allgemeine-mathematische-kompezenzen.md)
+  - [**Inhaltsbezogene mathematische Kompetenzen**](/anlage-zum-rahmenplan/inhaltsbezogene-mathematische-kompetenzen.md)
 - [Modul 1: Von der Änderungsrate zum Bestand](modul1/)
 
 

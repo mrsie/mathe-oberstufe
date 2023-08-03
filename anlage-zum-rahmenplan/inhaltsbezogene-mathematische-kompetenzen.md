@@ -1,5 +1,7 @@
 # Inhaltsbezogene mathematische Kompetenzen (Anlage zum Rahmenplan Mathematik )
 
+Quelle: https://www.hamburg.de/bildungsplaene/4550404/mathematik-gyo-anlage/
+
 > [!warning]
 > Im ersten Jahr der Studienstufe werden die Module 1, 2 und 3 erarbeitet, im zweiten Jahr die Module 4 und 5 sowie eines der Wahlpflichtmodule 6 und 7.
 
@@ -87,10 +89,10 @@ Die Schülerinnen und Schüler
 - Sinus- und Kosinusfunktionen
 - sowie Funktionen, die durch elementare Verknüpfungen und Verkettungen dieser Funktionen entstehen
 
-:::info
-Unter einfachen Funktionen werden Funktionen verstanden, deren jeweiliger Graph aus dem Graphen zu $$f(x)=\frac{1}{x}\quad \text{bzw.} \quad f(x)=\sqrt{x}$$
-durch Verschieben in x-Richtung und y-Richtung, Strecken in x- oder y-Richtung sowie Spiegeln an Abszissenachse oder Ordinatenachse hervorgehen kann.
-:::
+> [!info]
+> Unter einfachen Funktionen werden Funktionen verstanden, deren jeweiliger Graph aus dem Graphen zu $$f(x)=\frac{1}{x}\quad \text{bzw.} \quad f(x)=\sqrt{x}$$
+> durch Verschieben in x-Richtung und y-Richtung, Strecken in x- oder y-Richtung sowie Spiegeln an Abszissenachse oder Ordinatenachse hervorgehen kann.
+
 
 ## Modul 2
 
