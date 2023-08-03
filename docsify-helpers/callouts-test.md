@@ -17,16 +17,16 @@
 <br>
 
 > [!NOTE]
-> `[!NOTE|style:flat|label: Note|iconVisibility:visible]`
+> `[!NOTE]`
 
 <br>
 
 > [!WARNING]
-> An alert of type 'warning' using global style 'callout'.
+> An alert of type 'warning' using global style 'flat'.
 
 <br>
 
 > [!ATTENTION]
-> An alert of type 'attention' using global style 'callout'.
+> An alert of type 'attention' using global style 'flat'.
 
 
