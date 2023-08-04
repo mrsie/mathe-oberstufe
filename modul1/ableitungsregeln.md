@@ -18,8 +18,12 @@ y & =x^n \\
 y & = n \cdot x^{n-1}
 \end{align*}
 $$
+> [!note]
+> test
 
-> [!beispiel|labelVisibility:visibil]
+<br>
+
+> [!beispiel]
 > $$\begin{align*}
 f(x) & = x^5 \\
 f'(x) & = 5 \cdot x^{5-1}\\
