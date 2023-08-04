@@ -19,6 +19,14 @@ y & = n \cdot x^{n-1}
 \end{align*}
 $$
 
+> [!beispiel|labelVisibility:visibil]
+> $$\begin{align*}
+f(x) & = x^5 \\
+f'(x) & = 5 \cdot x^{5-1}\\
+f'(x) & = 5 \cdot x^4
+\end{align*}$$
+> 
+
 ## Faktorregel
 $$\begin{align*}
 f(x) & = c\cdot v(x) \\
