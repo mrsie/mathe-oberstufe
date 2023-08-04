@@ -41,8 +41,10 @@ Die Schülerinnen und Schüler
 - <mark class="op">beschreiben</mark> Änderungsraten funktional (**Ableitungsfunktion**) und <mark class="op">interpretieren</mark> diese <mark class="an">im Anwendungskontext</mark> (M II.2),
 
 - <mark class="op">entwickeln</mark> **Ableitungsgraphen aus Funktionsgraphen** und umgekehrt (D II.1),
+<br>[🔗 Graphisch Ableit](/modul1/graphisch-ableiten.md)
 
 - <mark class="op">leiten</mark> Funktionen <mark class="op">ab</mark> und <mark class="op">wenden</mark> dabei **Faktor-, Summen-, Produkt- und Kettenregel** <mark class="op">an</mark> (T I.2, T II.1),
+<br>[🔗 Ableitungsregeln](/modul1/ableitungsregeln.md)
 
 - <mark class="op">nutzen</mark> die **erste und zweite Ableitung** zur Bestimmung von **Monotonie, Krümmungsverhalten, lokalen Extrem- und Wendepunkten** von Funktionen und interpretieren diese <mark class="an">im Anwendungskontext</mark> (M I.1, T II.1),
 
