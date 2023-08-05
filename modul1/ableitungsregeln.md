@@ -1,8 +1,13 @@
 # Ableitungsregeln
 
-Fromelsammlung S.54 Differenziationsregeln
+📓 Fromelsammlung S.54 Differenziationsregeln
 
-Vorgaben aus [Modul 1](/modul1/README.md) der [Anlage zum Rahmenplan](/anlage-zum-rahmenplan/inhaltsbezogene-mathematische-kompetenzen.md): Faktor-, Summen-, Produkt- und Kettenregel
+Vorgaben aus [Modul 1](/modul1/README.md) der [Anlage zum Rahmenplan](/anlage-zum-rahmenplan/inhaltsbezogene-mathematische-kompetenzen.md): <mark>Faktor-, Summen-, Produkt- und Kettenregel</mark> <br> [Die <mark>Quotientenregel</mark> wird in der Anlage zum Rahmenplan **nicht** aufgelistet.]
+
+- [🎬 Studyfix-Video zur Potenzregel und Faktorregel](https://studyflix.de/mathematik/potenzregel-und-faktorregel-1845)
+- [🎬 Studyfix-Video zur Summenregel](https://studyflix.de/mathematik/summenregel-und-differenzregel-1848)
+- [🎬 Studyfix-Video zur Produktregel](https://studyflix.de/mathematik/produktregel-1697)
+- [🎬 Studyfix-Video zur Kettenregel](https://studyflix.de/mathematik/kettenregel-1846)
 
 ## Potenzregel
 
@@ -25,7 +30,13 @@ f(x) & = x^5 \\
 f'(x) & = 5 \cdot x^{5-1}\\
 f'(x) & = 5 \cdot x^4
 \end{align*}$$
+
+<br>
+
+> [!info]
+> Die Potenzregel gilt nicht nur für ganzzahlige Exponenten (Hochzahlen), sondern für alle reellen Zahlen ($n \in \mathbb{R}$).
 > 
+> D.h. **die Potenzregel gilt z.B. auch, wenn der Exponent ein Bruch ist.**
 
 ## Faktorregel
 $$\begin{align*}
@@ -54,6 +65,8 @@ y & =u \pm v \\
 y & = u'\pm v'
 \end{align*}
 $$
+
+
 
 
 ## Produktregel
